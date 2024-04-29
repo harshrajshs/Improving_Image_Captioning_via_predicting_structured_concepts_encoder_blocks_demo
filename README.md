@@ -1,4 +1,4 @@
-# Image Captioning with Structured Concepts
+# Image Captioning via Predicting Structured Concepts
 
 This repository implements the encoder block of the research paper "Improving image captioning via predicting structured concepts". The encoder block is a crucial component in the image captioning model described in the paper.
 
